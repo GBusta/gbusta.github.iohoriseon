@@ -7,7 +7,7 @@ A website to effectively increase Search Engine Optimization (SEO), manage your 
 ## Changes to the website
 
 ```
--Removed multiple Div element to make the source code easier to read and replaced them with semantic elements.
+-Removed multiple Div elements to make the source code easier to read and replaced them with semantic elements.
 
 -Changed some of the CSS classes to effect the semantic elements directly.
 
@@ -17,6 +17,6 @@ A website to effectively increase Search Engine Optimization (SEO), manage your 
 ```
 
 Overview of the Horiseon Homepage:
-![](Develop%5Cassets%5Cimages%5Choriseon_screenshot_1.jpg)
 
-![](Develop%5Cassets%5Cimages%5Choriseon_screenshot_2.jpg)
+![Horiseon Homepage Screenshot 1](images\horiseon_screenshot_1.jpg)
+![Horiseon Homepage Screenshot 2](images\horiseon_screenshot_2.jpg)
