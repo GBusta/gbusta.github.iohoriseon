@@ -20,3 +20,6 @@ Overview of the Horiseon Homepage:
 
 ![Horiseon Homepage Screenshot 1](images\horiseon_screenshot_1.jpg)
 ![Horiseon Homepage Screenshot 2](images\horiseon_screenshot_2.jpg)
+
+Github Repo URL: https://github.com/GBusta/horiseon
+Deployable URL: https://gbusta.github.io/horiseon/
